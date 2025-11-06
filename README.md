@@ -4,7 +4,7 @@
 
 # 👋 Hello!
 
-I’m **Juan José Aguado**, soon to graduate (June 2025) as a **Systems & Computer Engineer** with a focus on **Data Engineering**. I’m currently applying AI and social listening methods at Atinna to help organizations understand online conversations.
+I’m **Juan José Aguado**, a **Systems & Computer Engineer** with a focus on **Data Engineering**. I’m currently applying AI and social listening methods at Atinna to help organizations understand online conversations.
 
 My interests and areas of expertise include:
 
