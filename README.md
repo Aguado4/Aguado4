@@ -16,6 +16,7 @@ My interests and areas of expertise include:
 * **Cloud & Infrastructure**: Hands-on experience deploying AI workloads with AWS, Azure, Docker, and cloud-native architectures.
 * **Analytics & Visualization**: Building telemetry systems, dashboards, and data solutions using Power BI and SQL technologies.
 * **Automation & Intelligent Systems**: Developing AI-driven workflows that optimize business operations and reduce manual processes.
+* **AI Infrastructure & Observability**: Designed and built full-stack telemetry platforms, monitoring dashboards, and data systems to track AI model performance, system health, and production usage across deployed applications.
 
 I’m passionate about combining engineering, artificial intelligence, and scalable systems to create impactful technology solutions while continuously learning and exploring emerging AI technologies.
 
